@@ -57,14 +57,8 @@ IT & Tools:
 📫 Connect with Me
 
 📩 Email: sandy29at@gmail.com
-🔗 Portfolio: santhosh200429.github.io/MyPortfolioo
-🌍 LinkedIn: linkedin.com/in/santhosh-undefined-3a785426b
 
 
 ---
 
-⭐ "Stay curious, keep learning, and never stop growing!"
-
-This version is clean and professional. Let me know if you need further refinements!
-
-
+⭐ "Stay curious, keep learning, and never stop growing "
