@@ -1,7 +1,4 @@
-<!-- HEADER WITH NEW ANIMATED BANNER -->
-<p align="center">
-  <img src="https://github.com/santhosh200429/assets/banner-new-animated.gif" width="100%" alt="Santhosh Banner" />
-</p>
+
 
 <h1 align="center">Hi, I'm <span style="color:#f37335;">Santhosh</span></h1>
 <h3 align="center">IT Professional | Full Stack Developer | Future ML Engineer</h3>
@@ -10,7 +7,7 @@
   <a href="https://github.com/santhosh200429">
     <img src="https://img.shields.io/github/followers/santhosh200429?label=Followers&logo=github&style=for-the-badge&color=f37335">
   </a>
-  <a href="https://santhosh200429.github.io/MyPortfolioo/">
+  <a href="https://santhosh200429.github.io/portfolioo/">
     <img src="https://img.shields.io/badge/Portfolio-Visit Now-f37335?style=for-the-badge&logo=firefox&logoColor=white">
   </a>
   <a href="https://instagram.com/sxndy.hub">
