@@ -68,8 +68,6 @@ I've been fortunate to work alongside some talented teams on high-profile websit
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakashdeveloper&show_icons=true&theme=radical" alt="Santhosh's GitHub stats"/>
-  <br />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashdeveloper&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
