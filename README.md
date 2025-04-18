@@ -16,10 +16,6 @@ I've been fortunate to work alongside some talented teams on high-profile websit
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
-
----
-
 ### 🏆 GitHub Profile Trophy
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
