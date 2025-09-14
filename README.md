@@ -7,11 +7,11 @@ I've been fortunate to work alongside some talented teams on high-profile websit
 
 **I specialize in:**
 
-- **Back-end Development**: Node.js, Python, Golang  
-- **Front-end Development**: React.js, Angular 14, HTML5, CSS3, JavaScript, Responsive Design, UX  
+- **Back-end Development**: Node.js, Python
+- **Front-end Development**: React.js, HTML5, CSS3, JavaScript, Responsive Design, UX  
 - **Design Collaboration**: Working closely with UI/UX designers  
 - **Server Administration**: AWS, GCP, Azure  
-- **Databases**: MongoDB, Cassandra, MySQL  
+- **Databases**: MongoDB, MySQL  
 - **CI/CD & Containerization**: Docker, Kubernetes  
 
 ---
