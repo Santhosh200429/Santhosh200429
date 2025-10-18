@@ -1,7 +1,5 @@
 ### Hi Developers 👋
 
-### I'm A Full Stack Solution Architect
-
 The crossover between design and programming has always been of interest to me.  
 I've been fortunate to work alongside some talented teams on high-profile websites.  
 
