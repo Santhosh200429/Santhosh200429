@@ -5,20 +5,12 @@ I've been fortunate to work alongside some talented teams on high-profile websit
 
 **I specialize in:**
 
-- **Back-end Development**: Node.js, Python
+- **Back-end Development**: Node.js, Java
 - **Front-end Development**: React.js, HTML5, CSS3, JavaScript, Responsive Design, UX  
 - **Design Collaboration**: Working closely with UI/UX designers  
 - **Server Administration**: AWS, GCP, Azure  
 - **Databases**: MongoDB, MySQL  
 - **CI/CD & Containerization**: Docker, Kubernetes  
-
----
-
-### 🏆 GitHub Profile Trophy
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7" />
-</a>
 
 ---
 
@@ -57,9 +49,3 @@ I've been fortunate to work alongside some talented teams on high-profile websit
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashdeveloper&layout=compact&theme=radical" alt="Top Langs"/>
-</p>
